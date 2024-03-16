@@ -3,6 +3,7 @@
 - 🌱 I’m currently Upscaling my skill sets.
 - 💞️ I’m looking to collaborate for Web dev
 - 📫 How to reach me by emailing me at nikhilhatwar@hotmail.com
+- 🌐 Can find my photography notes on www.nikhilhatwar.com 
 
 <!---
 nikhilhat/nikhilhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
