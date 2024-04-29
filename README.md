@@ -18,9 +18,9 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 
 ```python
 class nikhil:
