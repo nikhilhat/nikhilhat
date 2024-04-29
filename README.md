@@ -21,6 +21,9 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![](https://img.shields.io/npm/v/npm.svg?logo=npm)
+
+
 
 ```python
 class nikhil:
